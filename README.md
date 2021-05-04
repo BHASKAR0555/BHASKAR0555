@@ -1,5 +1,5 @@
 -  Hi there 👋
-- 👀 I’m interested in SDE and WebD profile. b
+- 👀 I’m interested in SDE and WebD profile. 
 - 💞️ I’m looking to collaborate on web development and Software development projects.
 - ![counter](https://enrpimufwiwh1vz.m.pipedream.net)
 
