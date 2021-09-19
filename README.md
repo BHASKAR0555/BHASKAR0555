@@ -1,6 +1,4 @@
--  Hi there 👋
-- 👀 I’m interested in SDE and WebD profile. 
-- 💞️ I’m looking to collaborate on web development and Software development projects.
+
 ![Visitor Count](https://profile-counter.glitch.me/{bhaskar0555}/count.svg)
 
 <!---
